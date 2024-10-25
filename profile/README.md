@@ -33,8 +33,8 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-top: 20px;">
 
 <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: 48%; margin-bottom: 20px; background-color: #f9f9f9;">
-    <strong>Sieg (Administrador)</strong><br>
-    <p>Desenvolvedor Java/Skript, com 1 ano de experiência. Formado e estudante de Engenharia da Computação.</p>
+    <strong>Sieg</strong><br>
+    <p>Administrador, Desenvolvedor Java/Skript, com 1 ano de experiência. Formado e estudante de Engenharia da Computação.</p>
     <ul>
         <li>Discord: siegfek</li>
         <li>Github: <a href="https://github.com/feliperobertosouz" target="_blank">feliperobertosouz</a></li>
@@ -42,7 +42,7 @@
 </div>
 
 <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: 48%; margin-bottom: 20px; background-color: #f9f9f9;">
-    <strong>Shiny (Líder)</strong><br>
+    <strong>Shiny</strong><br>
     <p>Nosso líder de desenvolvimento, coordenando e organizando a equipe.</p>
     <ul>
         <li>Github: <a href="https://github.com/batistarezende" target="_blank">batistarezende</a></li>
@@ -50,7 +50,7 @@
 </div>
 
 <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: 48%; margin-bottom: 20px; background-color: #f9f9f9;">
-    <strong>Gp (Desenvolvedor)</strong><br>
+    <strong>Gp</strong><br>
     <p>Especialista em desenvolvimento de Skript.</p>
     <ul>
         <li>Github: <a href="https://github.com/Hilzendeger" target="_blank">Hilzendeger</a></li>
