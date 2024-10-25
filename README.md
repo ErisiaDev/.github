@@ -1,2 +1,3 @@
 # Erisia Dev
-Erisia dev é a equipe de desenvolvedores de Erisia Roleplay
+![Erisia cape](img/Banner_Halloween.png)
+## Erisia dev é a equipe de desenvolvedores de Erisia Roleplay
