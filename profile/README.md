@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="/img/Banner_Halloween.png" alt="Erisia Banner" style="width: 100%; max-width: 800px; border-radius: 8px; margin-bottom: 20px;">
+    <img src="/img/devs_banner.png" alt="Erisia Banner" style="width: 100%; max-width: 800px; border-radius: 8px; margin-bottom: 20px;">
 </div>
 
 # Equipe de Desenvolvimento de Erisia
