@@ -73,4 +73,12 @@
     </ul>
 </div>
 
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: 48%; margin-bottom: 20px; background-color: #f9f9f9;">
+    <strong>Vini</strong><br>
+    <p>Desenvolvedor implementação, configuração de plugins.</p>
+    <ul>
+        <li>Github: <a href="https://github.com/VinihSTG" target="_blank">VinihSTG</a></li>
+    </ul>
+</div>
+
 </div>
