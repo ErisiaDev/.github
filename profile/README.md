@@ -1,38 +1,76 @@
-# Erisia Dev
-![Erisia cape](/img/Banner_Halloween.png)
-## Equipe de Desenvolvimento de Erisia
+<div style="text-align: center;">
+    <img src="/img/Banner_Halloween.png" alt="Erisia Banner" style="width: 100%; max-width: 800px; border-radius: 8px; margin-bottom: 20px;">
+</div>
 
-### Entre em nosso discord [ErisiaRP](https://discord.com/invite/erisiarp)
+# Equipe de Desenvolvimento de Erisia
 
-Erisia é um servidor de minecraft roleplay medieval, temos mais de 1 ano de experiência com diferentes plugins, tanto próprios quanto configurados. A equipe de desenvolvimento atualmente pode ser pequena mas estamos trabalhando para fazermos o nosso servidor ainda melhor com mecânicas únicas! Atualmente o servidor está passando por reformulação, a equipe de desenvolvimento está trabalhando com tudo! Por que não conhece mais um pouco da equipe?
+<p style="text-align: center; font-size: 1.2em;">
+    Erisia é um servidor de Minecraft medieval roleplay com mais de 1 ano de experiência, utilizando plugins próprios e configurados, com uma equipe dedicada a criar uma experiência única e imersiva!
+</p>
+
+<div style="text-align: center; margin: 20px 0;">
+    <a href="https://discord.com/invite/erisiarp" target="_blank" style="font-size: 1.5em; text-decoration: none; color: #7289DA; font-weight: bold;">
+        Entre em nosso Discord - ErisiaRP
+    </a>
+</div>
+
+---
 
 ## Valores
-- **Desenvolvimento em equipe:** Acreditamos que além de desenvolver um bom código a equipe, as pessoas e nossas relações também devem ser desenvolvidas.
+<ul style="line-height: 1.8em; font-size: 1.1em;">
+    <li><strong>Desenvolvimento em equipe:</strong> Valorizamos tanto o código quanto as pessoas. Nossas relações são a base para um desenvolvimento de qualidade.</li>
+    <li><strong>Melhoria constante:</strong> Estamos sempre em busca das tecnologias mais avançadas para oferecer a melhor experiência e otimização aos nossos jogadores.</li>
+    <li><strong>Ensinando e aprendendo:</strong> Compartilhamos conhecimento para o crescimento contínuo de nossa equipe e comunidade.</li>
+</ul>
 
-- **Melhoria constante**: Sempre estamos indo atrás das tecnologias mais avançadas disponíveis para podermos trazer a melhor qualidade para nossos jogadores, além de procurarmos sempre a maior otimização
-
-- **Ensinando e aprendendo**: Compartilhamos nosso conhecimento com aqueles que estão atrás de melhorar.
+---
 
 ## Equipe
-A equipe de desenvolvimento pode ser até que pequena! Mas aqui o que importa é a produtividade e trabalho em equipe:
+<p style="font-size: 1.1em; line-height: 1.8em;">
+    Nossa equipe de desenvolvimento pode ser pequena, mas focamos em produtividade e trabalho em equipe para entregar o melhor para nossos jogadores!
+</p>
 
-**Sieg (administrador)**
-Desenvolvedor java/skript, 1 ano de experiencia com skript  e java. Trabalhando na área, formado e estudante de engenharia da computação
-Discord: siegfek
- Github: [feliperobertosouz](https://github.com/feliperobertosouz)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-top: 20px;">
 
-**Shiny (lider)**
-Atualmente nosso lider de desenvolvimento, ajudando a organizar os devs
-Github: [batistarezende](https://github.com/batistarezende)
- 
- **Gp (Dev)**
- Desenvolvedor Skript
- Github:[Hilzendeger](https://github.com/Hilzendeger)
- 
-**Giovanna**
-Desenvolvedora Skript, criadora de textura, configuração de plugins.
-Github:[giovanna2005lb](https://github.com/orgs/ErisiaDev/people/giovanna2005lb)
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: 48%; margin-bottom: 20px; background-color: #f9f9f9;">
+    <strong>Sieg (Administrador)</strong><br>
+    <p>Desenvolvedor Java/Skript, com 1 ano de experiência. Formado e estudante de Engenharia da Computação.</p>
+    <ul>
+        <li>Discord: siegfek</li>
+        <li>Github: <a href="https://github.com/feliperobertosouz" target="_blank">feliperobertosouz</a></li>
+    </ul>
+</div>
 
-**Winter**
-Configuração de plugins, criador de texturas e mobs.
-Github: [MariorJc](https://github.com/MariorjC)
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: 48%; margin-bottom: 20px; background-color: #f9f9f9;">
+    <strong>Shiny (Líder)</strong><br>
+    <p>Nosso líder de desenvolvimento, coordenando e organizando a equipe.</p>
+    <ul>
+        <li>Github: <a href="https://github.com/batistarezende" target="_blank">batistarezende</a></li>
+    </ul>
+</div>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: 48%; margin-bottom: 20px; background-color: #f9f9f9;">
+    <strong>Gp (Desenvolvedor)</strong><br>
+    <p>Especialista em desenvolvimento de Skript.</p>
+    <ul>
+        <li>Github: <a href="https://github.com/Hilzendeger" target="_blank">Hilzendeger</a></li>
+    </ul>
+</div>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: 48%; margin-bottom: 20px; background-color: #f9f9f9;">
+    <strong>Giovanna</strong><br>
+    <p>Desenvolvedora Skript, criadora de texturas e responsável pela configuração de plugins.</p>
+    <ul>
+        <li>Github: <a href="https://github.com/orgs/ErisiaDev/people/giovanna2005lb" target="_blank">giovanna2005lb</a></li>
+    </ul>
+</div>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: 48%; margin-bottom: 20px; background-color: #f9f9f9;">
+    <strong>Winter</strong><br>
+    <p>Especialista em configuração de plugins, criação de texturas e mobs personalizados.</p>
+    <ul>
+        <li>Github: <a href="https://github.com/MariorjC" target="_blank">MariorJc</a></li>
+    </ul>
+</div>
+
+</div>
