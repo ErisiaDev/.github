@@ -14,6 +14,16 @@
     </a>
 </div>
 
+---  
+
+## Nossos projetos
+<p style="text-align: center; font-size: 1.2em;">
+    Erisia é um projeto enorme que conta com 2 quadros de projeto! O quadro de desenvolvimento para nossos Dev
+    <p><a href="https://github.com/orgs/ErisiaDev/projects/1">Quadro de Desenvolvimento</a></p>
+    <p>Nosso quadro de texturas para nossos texturemakers</p>
+    <p><a href="https://github.com/orgs/ErisiaDev/projects/3">Quadro de Texturas</a></p>
+</p>
+
 ---
 
 ## Valores
